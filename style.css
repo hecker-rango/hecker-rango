@@ -1,0 +1,26 @@
+#game-board {
+  position: relative;
+  width: 400px;
+  height: 400px;
+  background-color: #bbb;
+}
+
+#character {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  background-image: url('https://i.imgur.com/Tg9ej1R.png');
+  background-size: cover;
+}
+
+#destination {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  background-image: url('https://i.imgur.com/XYrzOek.png');
+  background-size: cover;
+}
